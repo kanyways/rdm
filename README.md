@@ -11,6 +11,17 @@ Rdm 仓库
 
 如果条件允许，衷心的希望购买 [订阅](https://redisdesktop.com/pricing) 支持，在这里也非常感谢作者开源 [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)。
 
+
+Win：[下载](//github.com/kanyways/rdm/releases/download/2020.0/redis-desktop-manager-2020.0.0.exe)
+MD5：10b3ab20ab5a94d5cf54573fe286e44a
+SHA1：3d3ef15205a99b9376daa7fece30501cafc3f718
+SHA256：cc353f641dc592c5aed38ebe26767657e391801266088f90b8d384a0be20ebc6
+
+Mac：[下载](//github.com/kanyways/rdm/releases/download/2020.0/redis-desktop-manager-2020.0.0.dmg)
+MD5：61ad4e8e0bf44730df60f4978c84eb1c
+SHA1：ca0d81ecd9d4970d5d831f4d477a567a0809ed73
+SHA256：361cf518aacc74b6b3e53087f636062e09c8649c9f7ae608fd2915d5ff875801
+
 # 目的
 
 为学会在github上release
