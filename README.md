@@ -4,7 +4,6 @@
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/kanyways/rdm?style=flat-square&logo=github)](https://github.com/kanyways/rdm/tags)
 [![GitHub stars](https://img.shields.io/github/stars/kanyways/rdm?style=flat-square&logo=github)](https://github.com/kanyways/rdm/stargazers)
 [![Project license](https://img.shields.io/github/license/kanyways/rdm?style=flat-square&logo=github)](https://github.com/kanyways/rdm/blob/master/LICENSE)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/kanym/5usd)
 
 
 如果条件允许，衷心的希望购买 [订阅](https://redisdesktop.com/pricing) 支持，在这里也非常感谢作者开源 [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)。
